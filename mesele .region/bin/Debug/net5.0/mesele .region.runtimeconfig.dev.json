@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mirxaliq\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mirxaliq\\.nuget\\packages"
+    ]
+  }
+}
